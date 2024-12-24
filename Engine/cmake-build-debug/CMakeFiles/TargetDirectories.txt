@@ -1,3 +1,0 @@
-C:/UGit/NorthEngine/Engine/cmake-build-debug/CMakeFiles/Engine.dir
-C:/UGit/NorthEngine/Engine/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/UGit/NorthEngine/Engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
