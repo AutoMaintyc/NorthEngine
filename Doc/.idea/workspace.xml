@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3aaea135-aeb6-419e-9741-739dc6406084" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Engine/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Engine/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Engine/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Engine/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Engine/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Engine/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/adoc.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/mainDoc.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/writerside.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/writerside.cfg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,12 +53,39 @@
             </ColorState>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Writerside/mainDoc.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="2" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="225" />
+                  <option name="darkBlue" value="225" />
+                  <option name="darkGreen" value="149" />
+                  <option name="darkRed" value="56" />
+                  <option name="green" value="149" />
+                  <option name="red" value="56" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="234" />
+                  <option name="darkBlue" value="234" />
+                  <option name="darkGreen" value="197" />
+                  <option name="darkRed" value="81" />
+                  <option name="green" value="197" />
+                  <option name="red" value="81" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2qelB0fZow6JZLv8K8hjOmGAbc7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -72,12 +98,6 @@
     "Writerside.Web Archive (adoc).executor": "Run",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.language.and.region"
-  },
-  "keyToStringList": {
-    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
-      "C:/UGit/NorthEngine/Doc/Writerside/topics/API-quickstart.md",
-      "C:/UGit/NorthEngine/Doc/Writerside/topics/api-docs.md"
-    ]
   }
 }]]></component>
   <component name="RunManager">

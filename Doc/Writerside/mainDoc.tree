@@ -2,8 +2,8 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="adoc"
-                 name="API Docs"
+<instance-profile id="mainDoc"
+                 name="North Engine"
                  start-page="api-docs.md">
 
     <toc-element topic="api-docs.md"/>
