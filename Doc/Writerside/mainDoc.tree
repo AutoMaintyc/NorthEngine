@@ -4,11 +4,11 @@
 
 <instance-profile id="mainDoc"
                  name="North Engine"
-                 start-page="api-docs.md">
+                 start-page="Overview.md">
 
-    <toc-element topic="api-docs.md"/>
-    <toc-element topic="API-quickstart.md"/>
-    <toc-element topic="API-reference.md">
+    <toc-element topic="Overview.md"/>
+    <toc-element topic="Quickstart.md"/>
+    <toc-element topic="Reference.md">
         <toc-element topic="Pet.md">
         </toc-element>
         <toc-element toc-title="Store">

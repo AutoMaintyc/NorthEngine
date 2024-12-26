@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3aaea135-aeb6-419e-9741-739dc6406084" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/adoc.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/mainDoc.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/writerside.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/writerside.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/mainDoc.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/mainDoc.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/API-quickstart.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Quickstart.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/API-reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Reference.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/api-docs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Overview.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +100,14 @@
     "Writerside.Web Archive (adoc).executor": "Run",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.language.and.region"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
+      "C:/UGit/NorthEngine/Doc/Writerside/topics/Changes.md",
+      "C:/UGit/NorthEngine/Doc/Writerside/topics/Overview.md",
+      "C:/UGit/NorthEngine/Doc/Writerside/topics/Quickstart.md",
+      "C:/UGit/NorthEngine/Doc/Writerside/topics/Reference.md"
+    ]
   }
 }]]></component>
   <component name="RunManager">
