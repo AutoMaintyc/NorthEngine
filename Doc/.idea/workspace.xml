@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3aaea135-aeb6-419e-9741-739dc6406084" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/mainDoc.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/mainDoc.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/API-quickstart.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Quickstart.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/API-reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/api-docs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Overview.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,23 +89,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "Writerside.Web Archive (adoc).executor": "Run",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.language.and.region"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Writerside.Web Archive (adoc).executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;
   },
-  "keyToStringList": {
-    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
-      "C:/UGit/NorthEngine/Doc/Writerside/topics/Changes.md",
-      "C:/UGit/NorthEngine/Doc/Writerside/topics/Overview.md",
-      "C:/UGit/NorthEngine/Doc/Writerside/topics/Quickstart.md",
-      "C:/UGit/NorthEngine/Doc/Writerside/topics/Reference.md"
+  &quot;keyToStringList&quot;: {
+    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: [
+      &quot;C:/UGit/NorthEngine/Doc/Writerside/topics/Changes.md&quot;,
+      &quot;C:/UGit/NorthEngine/Doc/Writerside/topics/Overview.md&quot;,
+      &quot;C:/UGit/NorthEngine/Doc/Writerside/topics/Quickstart.md&quot;,
+      &quot;C:/UGit/NorthEngine/Doc/Writerside/topics/Reference.md&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Web Archive (adoc)" type="StardustRunConfiguration" factoryName="save-as-zip">
       <option name="folderPath" value="$PROJECT_DIR$" />
